@@ -1,5 +1,4 @@
-#
-!/bin/bash
+#!/bin/bash
 
 # Tool Name: Prime_Tube
 # Author: Primeplayer
